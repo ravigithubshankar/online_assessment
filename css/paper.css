@@ -56,25 +56,25 @@ svg {
 }
 .container {
   position: relative;
-  height: 600px;
-  width: 2000px;
+  height: 400px;
+  width: 1200px;
   /* background: #d2d7dd; */
   border: #dee2e6 2px solid;
 
   border-radius: 10px;
-  margin-left: 30px;
-  margin-top: 30px;
+  margin-left: 20px;
+  margin-top: 20px;
   /* margin-right: 20px; */
 }
 .paper {
   /* height: 350px; */
-  width: 900px;
+  width: 800px;
   border-radius: 10px;
   background: #e7eef7;
   /* margin-top: 50px; */
   border: 1px solid black;
   position: absolute;
-  top: 20%;
+  top: 10%;
   left: 20%;
   /* transform: translate(0, -50%); */
   /* padding: 30px; */
@@ -105,8 +105,8 @@ button {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 30px;
-  border-radius: 10px;
+  margin: 20px;
+  border-radius: 5px;
 }
 button:hover {
   background: #3e8e41;
@@ -199,7 +199,7 @@ label {
 }
 #next-btn {
   /* float: right; */
-  margin-left: 1200px;
+  margin-left: 900px;
   left: 50%;
 }
 .button {
